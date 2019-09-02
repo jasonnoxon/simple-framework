@@ -1,7 +1,7 @@
 # Simple Framework
 
 ## Why?
-I am currently teaching my daughter of 9 basic HTML, CSS concenpts. She's built a website with a couple of pages, and she rolls her eyes at me everytime I ask, "Did you create an anchor tag that takes the user back to the first page?". So, I wanted to put together a simple framework to build her website inside of that made that annoying "user experience" thing, not a thing.
+I am currently teaching my daughter of 9 basic HTML, CSS concenpts. She's built a website with a couple of pages, and she rolls her eyes at me everytime I ask, "Did you create an anchor tag that takes the user back to the first page?". So, I wanted to put together a simple framework to build her website inside of that made that annoying "user experience" thing not a thing.
 
 
 ## Goals
