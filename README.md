@@ -5,7 +5,7 @@ I am currently teaching my daughter of 9 basic HTML, CSS concenpts. She's built 
 
 
 ## Goals
-It needed to be small (a few lines of JavaScript), and use the <template> tag in which to build "pages".
+It wanted it to be small (a few lines of JavaScript), and use the <template> tag in which to build "pages".
 
 ## Installation
 Pretty simple (use the index.html file as a template).
