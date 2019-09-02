@@ -10,7 +10,7 @@ It wanted it to be small (a few lines of JavaScript), and use the <template> tag
 ## Installation
 Pretty simple (use the index.html file as a template).
 
-Include the `simple-framework.js` file in your `index.html` file:
+Include the `simple-framework.js` file at the bottom of your `index.html` file:
 
 `<script src='simple-framework.js'></script>`
 
